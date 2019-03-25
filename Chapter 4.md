@@ -11,6 +11,7 @@ The accuracy of a predictor learned by machine learning can be quite different i
 Machine learning methods are especially prone to overfitting because they can try a huge number of different “rules” until one that fits the training data perfectly is found.
 
 >Unsupervised Learning
+
 Typical unsupervised learning methods attempt to learn some kind of “structure” underlying the data
 
 **Visualization** where similar items are placed near each other and dissimilar items further away from each other. 
