@@ -15,7 +15,9 @@ Machine learning methods are especially prone to overfitting because they can tr
 Typical unsupervised learning methods attempt to learn some kind of “structure” underlying the data
 
 **Visualization** where similar items are placed near each other and dissimilar items further away from each other. 
+
 **Clustering** where we use the data to identify groups or “clusters” of items that are similar to each other but dissimilar from data in other clusters.
+
 **Generative modeling** -generative adversarial networks (GANs) -> generating new things from old data.
 
 *Nearest neighbor* is to relate the class values to similarity or proximity (nearness).
