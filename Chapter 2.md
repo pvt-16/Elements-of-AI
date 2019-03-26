@@ -1,6 +1,6 @@
 ## Chapter 2
 
-*AI problem solving*
+>*AI problem solving*
 
 First stage of the problem solving process: defining the choices and their consequences,
 Eg: Toy problem: chicken crossing
